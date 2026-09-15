@@ -1,5 +1,6 @@
 📊 Stock Market Analytics Dashboard
-An interactive **Power BI dashboard** designed to analyze stock-market performance across multiple NSE-listed companies.
+
+An interactive Power BI dashboard designed to analyze stock-market performance across multiple NSE-listed companies.
 
 🔗 Project Repository
 [View Source & Dashboard Documentation on GitHub](https://github.com/ChandrikaTulsani/stock-market-analytics-powerbi)
@@ -9,6 +10,7 @@ The dashboard provides interactive stock-level and date-level analysis of price 
 ---
 
 📌 Project Overview
+
 This project focuses on analyzing historical stock-market data using Microsoft Power BI and DAX.
 
 The dashboard enables users to explore individual stocks, identify price trends, analyze trading activity and compare the performance of multiple stocks through interactive visualizations.
@@ -18,6 +20,7 @@ The dashboard enables users to explore individual stocks, identify price trends,
 📈 Dashboard Pages
 
 1. Market Overview
+   
 Provides a high-level view of stock performance through:
 
 - Latest Closing Price
@@ -30,6 +33,7 @@ Provides a high-level view of stock performance through:
 - High vs Low Price Trends
 
 2. Stock Analysis
+   
 Provides detailed analysis for an individual stock, including:
 
 - OHLC / Candlestick Price Analysis
@@ -43,6 +47,7 @@ Provides detailed analysis for an individual stock, including:
 - Date-based analysis
 
 3. Stock Comparison and Performance
+   
 Enables comparison of multiple stocks using:
 
 - Average Closing Price
@@ -56,6 +61,7 @@ Enables comparison of multiple stocks using:
 - Stock Price and Trading Metrics
 
 4. Stock Performance Dashboard
+   
 Provides an interactive summary of stock performance using:
 
 - Stock Selection
@@ -68,6 +74,7 @@ Provides an interactive summary of stock performance using:
 ---
 
 🛠️ Tools & Technologies
+
 - Microsoft Power BI
 - DAX
 - Data Visualization
@@ -78,6 +85,7 @@ Provides an interactive summary of stock performance using:
 ---
 
 🎯 Key Analytical Areas
+
 The project focuses on:
 
 - Stock price movement
@@ -93,6 +101,7 @@ The project focuses on:
 ---
 
 💡 Key Insights
+
 The dashboard helps identify:
 
 - Changes in stock prices over time
@@ -104,34 +113,40 @@ The dashboard helps identify:
 ---
 
 📷 Dashboard Preview
+
 Screenshots of the dashboard are provided below.
 
 Market Overview
+
 <img width="1562" height="890" alt="image" src="https://github.com/user-attachments/assets/7685dffb-df58-4427-9103-397a5212c780" />
 
 
 Stock Analysis
+
 <img width="1558" height="892" alt="image" src="https://github.com/user-attachments/assets/93b3e47f-abfa-417b-a75d-d8415873a218" />
 
 
 Stock Comparison and Performance
+
 <img width="1564" height="886" alt="image" src="https://github.com/user-attachments/assets/06dacf22-0411-46d0-96b2-a607f33bd845" />
 
 
 Stock Performance Dashboard
+
 <img width="1562" height="902" alt="image" src="https://github.com/user-attachments/assets/ae04cd0f-0dbd-4f98-84e8-ea65d53b9ee6" />
 
 
 ---
 
 👩‍💻 Project Skills Demonstrated
+
 Power BI | DAX | Data Analysis | Data Visualization | Dashboard Design | Business Intelligence
 
 ---
 
 📂 Project Structure
 
-```text
+text
 stock-market-analytics-powerbi/
 │
 ├── README.md
