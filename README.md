@@ -146,8 +146,6 @@ Power BI | DAX | Data Analysis | Data Visualization | Dashboard Design | Busines
 
 📂 Project Structure
 
-## 📁 Project Structure
-
 text
 
 stock-market-analytics-powerbi/
