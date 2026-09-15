@@ -2,20 +2,21 @@
 An interactive **Power BI dashboard** designed to analyze stock-market performance across multiple NSE-listed companies.
 
 🔗 Project Repository
-
 [View Source & Dashboard Documentation on GitHub](https://github.com/ChandrikaTulsani/stock-market-analytics-powerbi)
+
 The dashboard provides interactive stock-level and date-level analysis of price movements, trading activity and market performance.
 
 ---
 
 📌 Project Overview
-This project focuses on analyzing historical stock-market data using **Microsoft Power BI and DAX**.
+This project focuses on analyzing historical stock-market data using Microsoft Power BI and DAX.
 
 The dashboard enables users to explore individual stocks, identify price trends, analyze trading activity and compare the performance of multiple stocks through interactive visualizations.
 
 ---
 
 📈 Dashboard Pages
+
 1. Market Overview
 Provides a high-level view of stock performance through:
 
