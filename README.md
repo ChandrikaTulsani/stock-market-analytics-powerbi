@@ -1,9 +1,9 @@
 📊 Stock Market Analytics Dashboard
 An interactive **Power BI dashboard** designed to analyze stock-market performance across multiple NSE-listed companies.
 
-🔗 Live Interactive Dashboard
-https://app.powerbi.com/groups/me/list?experience=power-bi&clientSideAuth=0
+🔗 Project Repository
 
+[View Source & Dashboard Documentation on GitHub](https://github.com/ChandrikaTulsani/stock-market-analytics-powerbi)
 The dashboard provides interactive stock-level and date-level analysis of price movements, trading activity and market performance.
 
 ---
