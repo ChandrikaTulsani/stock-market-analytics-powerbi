@@ -149,11 +149,18 @@ Power BI | DAX | Data Analysis | Data Visualization | Dashboard Design | Busines
 ## 📁 Project Structure
 
 text
+
 stock-market-analytics-powerbi/
+
 ├── README.md
+
 └── screenshots/
+
     ├── market-overview.png
+    
     ├── stock-analysis.png
+    
     ├── stock-comparison.png
+    
     └── stock-performance.png
 
